@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
   background: #fff;
-  color: #212121;
+  color: #42f5cb;
   font-family: "Open Sans", sans-serif;
   display: grid;
   place-items: center;
@@ -47,7 +47,7 @@ body {
 }
 
 .joinChatContainer button:hover {
-  background: #2e7d32;
+  background: #2cad28;
 }
 
 .chat-window {
